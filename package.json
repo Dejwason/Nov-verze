@@ -1,5 +1,5 @@
 {
-  "name": "kartoteka-app-full-rebuild",
+  "name": "kartoteka-final-functional",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
